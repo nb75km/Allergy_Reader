@@ -1,5 +1,7 @@
 ---
 
+title:"AllergyReader アプリサポート"
+
 # AllergyReader アプリサポート
 
 「AllergyReader」をご利用いただき、誠にありがとうございます。
