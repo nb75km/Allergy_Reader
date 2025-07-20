@@ -1,3 +1,9 @@
+---
+layout: default
+title: "プライバシーポリシー"
+permalink: /privacy/privacy-policy/   # ← 拡張子なしの / で終わる形がおすすめ
+---
+  
   プライバシーポリシー
 
   制定日: 2025年7月20日
