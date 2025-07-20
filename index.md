@@ -31,7 +31,7 @@ A. プレミアム機能にご登録いただくと、広告が非表示にな�
 
 本アプリのプライバシーポリシーは、以下のリンクからご確認いただけます。
 
-[プライバシーポリシーはこちら](https://github.com/nb75km/Allergy_Reader/edit/main/privacy-policy.md)
+[プライバシーポリシーはこちら](https://raw.githubusercontent.com/nb75km/Allergy_Reader/refs/heads/main/privacy-policy.md)
 
 ---
 
